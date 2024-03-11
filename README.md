@@ -19,6 +19,17 @@ Here are some ideas to get you started:
  
 #### SW Engineer
 
+<a href="https://sustaining-respect-02c.notion.site/Shinsil-Kang-626ed41565ca48f49294bbda6f8a8511?pvs=4"><img src="https://user-images.githubusercontent.com/83712521/212296254-6f8123fe-50a3-4613-9461-b183d5c29b47.png" width="30" height="30">
+
+
+📚 **Publications**
+
+**ㆍ <a href="https://m.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=6c75c9e7839fe639ffe0bdc3ef48d419&keyword=%EA%B0%95%EC%8B%A0%EC%8B%A4">적대적 변분 그래프 오토인코더와 다중작업학습을 이용한 링크 예측**  (석사 학위 논문,  2022.08)
+
+**ㆍ <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530272">웨어러블 센서를 사용한 심전도 모니터링 애플리케이션 디자인**  (한국 HCI 학회, 2021.01)
+
+**ㆍ <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301960">텍스트 유사도 분석 기반 상황인지형 추천 프레임워크**  (한국정보과학회, 2019.12)
+
 ✏ **Task**
 
 
