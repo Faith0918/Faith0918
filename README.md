@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 📚 **Publications**
 
-**ㆍ <a href="https://m.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=6c75c9e7839fe639ffe0bdc3ef48d419&keyword=%EA%B0%95%EC%8B%A0%EC%8B%A4">적대적 변분 그래프 오토인코더와 다중작업학습을 이용한 링크 예측**  (석사 학위 논문,  2022.08)
+**ㆍ <a href="https://m.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=6c75c9e7839fe639ffe0bdc3ef48d419&keyword=%EA%B0%95%EC%8B%A0%EC%8B%A4">적대적 변분 그래프 오토인코더와 다중작업학습을 이용한 링크 예측**  (석사학위논문,  2022.08)
 
-**ㆍ <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530272">웨어러블 센서를 사용한 심전도 모니터링 애플리케이션 디자인**  (한국 HCI 학회, 2021.01)
+**ㆍ <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530272">웨어러블 센서를 사용한 심전도 모니터링 애플리케이션 디자인**  (한국HCI학회, 2021.01)
 
 **ㆍ <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301960">텍스트 유사도 분석 기반 상황인지형 추천 프레임워크**  (한국정보과학회, 2019.12)
 
